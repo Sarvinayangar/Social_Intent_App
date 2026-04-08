@@ -1,0 +1,2 @@
+timestamp,annotator_id,participant_id,trial_id,interaction_id,interaction_title,interaction_description,observed_action,broad_social_intention,specific_social_intention,beneficiary,proactive_or_reactive,confidence,notes
+2026-04-08T10:34:17,1,1,1,I01,Object handover during task,Person A passes an object to Person B while Person B is engaged in a task.,Pass object,Responding,Responding to a gesture or cue,Unclear,Proactive,3,
